@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Advertising Jambi Kota</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_namaadv">Advertising Jambi Kota</string>
+    <string name="title_activity_broni">Advertising Jambi Kota</string>
+    <string name="title_activity_pallmerah">Advertising Jambi Kota</string>
+    <string name="title_activity_sepakat">Advertising Jambi Kota</string>
+    <string name="title_activity_spktpeta">Advertising Jambi Kota</string>
+    <string name="title_activity_kotabaru">Advertising Jambi Kota</string>
+    <string name="title_activity_virgo">VIRGO ADVERTISING</string>
+    <string name="title_activity_virgo_peta">Advertising Virgo</string>
+    <string name="title_activity_estika">Advertising Jambi Kota</string>
+    <string name="title_activity_estika_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_sartika">Advertising Jambi Kota</string>
+    <string name="title_activity_sartika_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_r3">Advertising Jambi Kota</string>
+    <string name="title_activity_r3_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_kota_baru">Advertising Jambi Kota</string>
+    <string name="title_activity_ilham_mandiri">Advertising Jambi Kota</string>
+    <string name="title_activity_ilham_mandiri_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_dito">Advertising Jambi Kota</string>
+    <string name="title_activity_dito_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_merapi">Advertising Jambi Kota</string>
+    <string name="title_activity_merapi_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_dhimas">Advertising Jambi Kota</string>
+    <string name="title_activity_dhimas_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_ibrahim">Advertising Jambi Kota</string>
+    <string name="title_activity_telanai">Advertising Jambi Kota</string>
+    <string name="title_activity_virgo_ibrahim">Advertising Jambi Kota</string>
+    <string name="title_activity_virgo_ibrahim_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_harapan_jaya">Advertising Jambi Kota</string>
+    <string name="title_activity_harapan_jaya_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_icha">Advertising Jambi Kota</string>
+    <string name="title_activity_rahayu">Advertising Jambi Kota</string>
+    <string name="title_activity_rahayu_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_asri">Advertising Jambi Kota</string>
+    <string name="title_activity_asri_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_icha_peta">Advertising Jambi Kota</string>
+    <string name="title_activity_cemara">Advertising Jambi Kota</string>
+    <string name="title_activity_cemara_peta">Advertising Jambi Kota</string>
+
+</resources>

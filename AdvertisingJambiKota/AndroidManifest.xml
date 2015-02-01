@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tgsakhir.advertisingjambikota"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Namaadv"
+            android:label="@string/title_activity_namaadv" >
+        </activity>
+        <activity
+            android:name=".Broni"
+            android:label="@string/title_activity_broni" >
+        </activity>
+        <activity
+            android:name=".Pallmerah"
+            android:label="@string/title_activity_pallmerah" >
+        </activity>
+        <activity
+            android:name=".Sepakat"
+            android:label="@string/title_activity_sepakat" >
+        </activity>
+        <activity
+            android:name=".Spktpeta"
+            android:label="@string/title_activity_spktpeta" >
+        </activity>
+        <activity
+            android:name=".Kotabaru"
+            android:label="@string/title_activity_kotabaru" >
+        </activity>
+        <activity
+            android:name=".Virgo"
+            android:label="@string/title_activity_virgo" >
+        </activity>
+        <activity
+            android:name=".VirgoPeta"
+            android:label="@string/title_activity_virgo_peta" >
+        </activity>
+        <activity
+            android:name=".Estika"
+            android:label="@string/title_activity_estika" >
+        </activity>
+        <activity
+            android:name=".EstikaPeta"
+            android:label="@string/title_activity_estika_peta" >
+        </activity>
+        <activity
+            android:name=".Sartika"
+            android:label="@string/title_activity_sartika" >
+        </activity>
+        <activity
+            android:name=".SartikaPeta"
+            android:label="@string/title_activity_sartika_peta" >
+        </activity>
+        <activity
+            android:name=".R3"
+            android:label="@string/title_activity_r3" >
+        </activity>
+        <activity
+            android:name=".R3Peta"
+            android:label="@string/title_activity_r3_peta" >
+        </activity>
+        <activity
+            android:name=".KotaBaru"
+            android:label="@string/title_activity_kota_baru" >
+        </activity>
+        <activity
+            android:name=".IlhamMandiri"
+            android:label="@string/title_activity_ilham_mandiri" >
+        </activity>
+        <activity
+            android:name=".IlhamMandiriPeta"
+            android:label="@string/title_activity_ilham_mandiri_peta" >
+        </activity>
+        <activity
+            android:name=".Dito"
+            android:label="@string/title_activity_dito" >
+        </activity>
+        <activity
+            android:name=".DitoPeta"
+            android:label="@string/title_activity_dito_peta" >
+        </activity>
+        <activity
+            android:name=".Merapi"
+            android:label="@string/title_activity_merapi" >
+        </activity>
+        <activity
+            android:name=".MerapiPeta"
+            android:label="@string/title_activity_merapi_peta" >
+        </activity>
+        <activity
+            android:name=".Dhimas"
+            android:label="@string/title_activity_dhimas" >
+        </activity>
+        <activity
+            android:name=".DhimasPeta"
+            android:label="@string/title_activity_dhimas_peta" >
+        </activity>
+        <activity
+            android:name=".Ibrahim"
+            android:label="@string/title_activity_ibrahim" >
+        </activity>
+        <activity
+            android:name=".Telanai"
+            android:label="@string/title_activity_telanai" >
+        </activity>
+        <activity
+            android:name=".VirgoIbrahim"
+            android:label="@string/title_activity_virgo_ibrahim" >
+        </activity>
+        <activity
+            android:name=".VirgoIbrahimPeta"
+            android:label="@string/title_activity_virgo_ibrahim_peta" >
+        </activity>
+        <activity
+            android:name=".HarapanJaya"
+            android:label="@string/title_activity_harapan_jaya" >
+        </activity>
+        <activity
+            android:name=".HarapanJayaPeta"
+            android:label="@string/title_activity_harapan_jaya_peta" >
+        </activity>
+        <activity
+            android:name=".Icha"
+            android:label="@string/title_activity_icha" >
+        </activity>
+        <activity
+            android:name=".Rahayu"
+            android:label="@string/title_activity_rahayu" >
+        </activity>
+        <activity
+            android:name=".RahayuPeta"
+            android:label="@string/title_activity_rahayu_peta" >
+        </activity>
+        <activity
+            android:name=".Asri"
+            android:label="@string/title_activity_asri" >
+        </activity>
+        <activity
+            android:name=".AsriPeta"
+            android:label="@string/title_activity_asri_peta" >
+        </activity>
+        <activity
+            android:name=".IchaPeta"
+            android:label="@string/title_activity_icha_peta" >
+        </activity>
+        <activity
+            android:name=".Cemara"
+            android:label="@string/title_activity_cemara" >
+        </activity>
+        <activity
+            android:name=".CemaraPeta"
+            android:label="@string/title_activity_cemara_peta" >
+        </activity>
+    </application>
+
+</manifest>
